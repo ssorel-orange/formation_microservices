@@ -9,5 +9,9 @@ class ProjetdemoApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	@Test
+	void logementTest () {
+		
+	}
 
 }
